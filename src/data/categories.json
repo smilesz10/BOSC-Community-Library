@@ -1,0 +1,7 @@
+{
+  "library_filter": {
+    "education": ["primary_policy.md", "literacy_handbook.md"],
+    "health": ["community_health.pdf"],
+    "agriculture": ["crop_rotation_guide.md"]
+  }
+}
