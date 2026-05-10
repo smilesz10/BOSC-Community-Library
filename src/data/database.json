@@ -1,0 +1,26 @@
+[
+{
+"id": 1,
+"title": "Primary Education Manual",
+"category": "Education",
+"language": "English",
+"file_path": "./resources/education-policy.md",
+"tags": ["school", "policy", "primary"]
+},
+{
+"id": 2,
+"title": "First Aid Basics",
+"category": "Health",
+"language": "Luganda",
+"file_path": "./resources/community-guidelines.pdf",
+"tags": ["emergency", "health", "safety"]
+},
+{
+"id": 3,
+"title": "Soil Health & Crop Rotation",
+"category": "Agriculture",
+"language": "English",
+"file_path": "./resources/crop_rotation_guide.md",
+"tags": ["farming", "soil", "sustainability"]
+}
+]
